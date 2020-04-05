@@ -21,6 +21,7 @@
 		".pytest_cache",
 		"__pycache__"
 	],
+	"font_size": 20,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
@@ -38,5 +39,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"use_tab_stops": true,
-	"word_wrap": false
+	"word_wrap": true
 }
